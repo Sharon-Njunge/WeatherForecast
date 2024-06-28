@@ -1,0 +1,27 @@
+.app-text{
+    text-align: center;
+}
+.body{
+    border: 2px solid;
+    border-radius: 30px;
+    width: 60%;
+    height: 900px;
+    /* display: flex; */
+   /* justify-content: space-around; */
+    margin: 0 auto;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    width: 30px;
+    height: 30px;
+}
+input{
+    height: 30px;
+}
+.first-image{
+    width: 600px;
+    height: 100px;
+}
